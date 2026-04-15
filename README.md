@@ -49,6 +49,7 @@ Mi enfoque principal es el desarrollo **Full Stack**, con especial interés en c
 - **LinkedIn:** [linkedin.com/in/tomas-andres-castro](https://linkedin.com/in/tomas-andres-castro)
 - **Email:** [castrotomasandres05@gmail.com](mailto:castrotomasandres05@gmail.com)
 - **Teléfono:** +54 221 361 9896
+- **Portfolio:** [portfolio-tomas-castro.vercel.app](portfolio-tomas-castro.vercel.app)
 
 ---
 
