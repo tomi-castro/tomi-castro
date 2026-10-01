@@ -35,21 +35,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
-
 ---
-
-<!--GITHUB STATISTICS-->
-<h2 align="center">📊 GitHub Statistics</h2>
-<div align="center">
-  <img src="https://github-readme-stats-gray-one-27.vercel.app/api?username=tomi-castro&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=0d1117&title_color=007bff&text_color=c9d1d9&icon_color=007bff&border_color=474554&border_radius=10" height="165" />
-  <img src="https://streak-stats.demolab.com?user=tomi-castro&background=0d1117&border=474554&stroke=474554&ring=007bff&fire=007bff&currStreakLabel=007bff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&border_radius=10" height="165" />
-</div>
-<div align="center">
-  <img src="https://github-readme-stats-gray-one-27.vercel.app/api/top-langs/?username=tomi-castro&layout=compact&include_all_commits=true&count_private=true&hide_border=false&bg_color=0d1117&title_color=007bff&text_color=c9d1d9&border_color=474554&border_radius=10" height="165" />
-</div>
-
----
-
 ### 🚀 Featured Projects
 
 #### 🐾 ¿Dónde estás? Volvé a casa
