@@ -4,7 +4,7 @@
   <h3>University Programmer Analyst | Full Stack Developer</h3>
   <p>📍 La Plata, Buenos Aires, Argentina</p>
   <p align="center">
-    Hello! I am passionate about technology and software development, recently graduated as a <strong>University Programmer Analyst (APU)</strong> from the Faculty of Informatics at <strong>Universidad Nacional de La Plata (UNLP)</strong>.
+    Hello! I am passionate about technology and software development, recently graduated as a <strong>University Programmer Analyst (APU)</strong> from the School of Computer Science at <strong>Universidad Nacional de La Plata (UNLP)</strong>.
   </p>
   <p align="center">
     My primary focus is <strong>Full Stack</strong> development, with a strong interest in building robust, scalable, and efficient applications. Beyond high-level programming, I enjoy exploring <strong>operating systems architecture and infrastructure</strong>, regularly working in <strong>Linux</strong> environments and diving deep into kernel internals.
@@ -19,12 +19,14 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue.js_3-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
   <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
@@ -35,8 +37,15 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
----
+
 ### 🚀 Featured Projects
+
+#### 🚨 RescueSync — Distributed Systems Academic Project
+*Distributed web platform for emergency crisis coordination, resource bidding, and NGO consortiums.*
+- **Technologies:** Next.js, FastAPI, Bonita BPM, PostgreSQL, Docker, OpenAPI 3.0.
+- **Architecture:** Modern Full Stack architecture featuring a Next.js Frontend and a high-performance REST API built with FastAPI.
+- **Process Orchestration:** Business process lifecycle and emergency workflows automated and integrated with Bonita BPM, alongside external competency validation services.
+- **Engineering & Methodology:** Developed through AI-augmented engineering ("vibe coding") with strict best practices: Spec-Driven Development (OpenAPI 3.0 contracts), thorough architectural planning, edge-case analysis, and rigorous code reviews.
 
 #### 🐾 ¿Dónde estás? Volvé a casa
 *Web application for searching and recovering lost pets.*
@@ -85,7 +94,7 @@
 - **Email:** [castrotomasandres05@gmail.com](mailto:castrotomasandres05@gmail.com)
 - **Phone:** +54 221 361 9896
 - **Portfolio:** [portfolio-tomas-castro.vercel.app](https://portfolio-tomas-castro.vercel.app/)
-- **Resume / CV:** [Curriculum](https://docs.google.com/document/d/1z46ZlmbfVIYAIXYW8mZXwgLGjjwyL81L/edit?usp=sharing&ouid=101991177161341677832&rtpof=true&sd=true)
+- **Resume / CV:** [Curriculum](https://docs.google.com/document/d/1ocX3K9gFwalutosYCzJeF9rqmSmKTbI_/edit)
 
 ---
 
