@@ -36,15 +36,6 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | C#, Python, Java, JavaScript, Bash |
-| **Frontend** | Angular, Vue 3, Blazor, Tailwind CSS, HTML5/CSS3 |
-| **Backend** | Spring Boot, Flask, .NET |
-| **Databases** | MySQL, PostgreSQL, MINIO (Object Storage) |
-| **Tools** | Git, Docker, Scrum, Agile Methodologies |
-| **Systems** | Linux (Kernel Architecture, Syscalls, Bash Scripting) |
-
 ---
 
 <!--GITHUB STATISTICS-->
