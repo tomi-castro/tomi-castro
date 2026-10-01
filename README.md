@@ -4,7 +4,7 @@
   <h3>University Programmer Analyst | Full Stack Developer</h3>
   <p>📍 La Plata, Buenos Aires, Argentina</p>
   <p align="center">
-    Hello! I am passionate about technology and software development, recently graduated as a <strong>University Programmer Analyst (APU)</strong> from the School of Computer Science at <strong>Universidad Nacional de La Plata (UNLP)</strong>.
+    Hello! I am passionate about technology and software development, recently graduated as a <strong>University Programmer Analyst (APU)</strong> from the Faculty of Informatics at <strong>Universidad Nacional de La Plata (UNLP)</strong>.
   </p>
   <p align="center">
     My primary focus is <strong>Full Stack</strong> development, with a strong interest in building robust, scalable, and efficient applications. Beyond high-level programming, I enjoy exploring <strong>operating systems architecture and infrastructure</strong>, regularly working in <strong>Linux</strong> environments and diving deep into kernel internals.
