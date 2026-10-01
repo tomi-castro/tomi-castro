@@ -9,8 +9,10 @@
   <p align="center">
     My primary focus is <strong>Full Stack</strong> development, with a strong interest in building robust, scalable, and efficient applications. Beyond high-level programming, I enjoy exploring <strong>operating systems architecture and infrastructure</strong>, regularly working in <strong>Linux</strong> environments and diving deep into kernel internals.
   </p>
+  <p align="center">
+  Currently, I am deeply engaged in exploring AI-driven development, specifically focusing on building and integrating AI agents, LLM-powered workflows, and advanced prompting techniques to optimize modern software engineering.
 </div>
-
+  </p>
 <!--TECHNOLOGIES-->
 <h2 align="center">🛠️ Technologies & Tools</h2>
 <p align="center">
